@@ -1,3 +1,18 @@
 body {
     background-color: lightblue
 }
+
+#headline {
+    color: white;
+    font-size: 15mm;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-style: normal;
+}
+
+#content1 {
+    color: white;
+    font-size: 10mm;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
