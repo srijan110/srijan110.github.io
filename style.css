@@ -58,18 +58,19 @@ img {
     margin-bottom: auto;
     width: 50vw;
     height: 50vh;
-    text-align: justify;
+    text-align: center;
     font-family: "M PLUS Rounded 1c";
+    
 }
 
 ::-webkit-scrollbar {
-    width: 20px;
-    background: rgba(255, 99, 71, 0.25);
+    width: 10px;
   }
   
   /* Track */
   ::-webkit-scrollbar-track {
     border-radius: 10px;
+    background: rgba(255, 99, 71, 0.25);
   }
    
   /* Handle */
